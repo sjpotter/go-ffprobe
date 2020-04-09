@@ -1,3 +1,3 @@
-module github.com/vansante/go-ffprobe
+module github.com/sjpotter/go-ffprobe
 
 go 1.13
